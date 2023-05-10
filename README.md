@@ -4,3 +4,5 @@ This project develops CNNs for image classification on CIFAR-10, CIFAR-100, and 
 Please note that executing the PatchCamelyon.ipynb notebook may require more computational resources, such as a high-performance GPU, due to the dataset's size and complexity. For users with limited resources, the PatchCamelyon_smaller_dataset.ipynb notebook offers a feasible alternative for experimentation.
 
 Feel free to explore these notebooks, modify the code, and further improve the models for image classification tasks.
+
+The results for each performance can be seen in each of the notebooks respectively.
