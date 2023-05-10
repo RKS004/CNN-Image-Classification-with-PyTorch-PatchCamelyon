@@ -1,14 +1,6 @@
 # CNN-Image-Classification-with-PyTorch-PatchCamelyon
 This project develops CNNs for image classification on CIFAR-10, CIFAR-100, and PatchCamelyon datasets. It evaluates VGG19, ResNet18, and a simple CNN with Adam and SGD optimizers to identify the best model-optimizer combinations. Python and PyTorch are used for training and testing.
 
-Describes the datasets used (CIFAR-10, CIFAR-100, and PatchCamelyon) and their characteristics.
+Please note that executing the PatchCamelyon.ipynb notebook may require more computational resources, such as a high-performance GPU, due to the dataset's size and complexity. For users with limited resources, the PatchCamelyon_smaller_dataset.ipynb notebook offers a feasible alternative for experimentation.
 
-Explains the architectures implemented (VGG19, ResNet18, and a simple CNN) and their design details.
-
-Describes the optimizers used (Adam and SGD) and their impact on model performance.
-
-Outlines the evaluation metrics used to measure model performance.
-
-Presents the results obtained, including a summary of model performance on each dataset, including PatchCamelyon.
-
-Offers insights and conclusions drawn from the project, emphasizing the effectiveness of the ResNet18 model with the Adam optimizer.
+Feel free to explore these notebooks, modify the code, and further improve the models for image classification tasks.
